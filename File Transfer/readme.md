@@ -1,0 +1,2 @@
+First: LAunch the server so it starts listening
+Second: Launch the client so it sends the message to ther server and so that the server accepts its request and recieve the message, then reply with a confirmation messgae to the client.
