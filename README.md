@@ -1,5 +1,11 @@
-This Repo is dedicated to sockets programming in Python. 
+# Sockets Programming in Python
+Welcome to the Sockets Programming repository dedicated to exploring socket communication in Python.
 
-Each directory contains a project that covers an example of sockets communication in a Server/Client architecture. 
-Client_server_intro : is a simple project of a client a server communicating using tCP connections.
-File Transfer: an example of C/S communicating the content of text files using TCP connections
+Overview
+This repository contains a collection of projects, each focusing on different aspects of socket communication in a Server/Client architecture.
+
+## Projects
+* Client_server_intro:
+This project demonstrates a basic example of a client-server interaction using TCP connections.
+* File Transfer:
+In this project, we explore client-server communication for transferring the contents of text files over TCP connections.
