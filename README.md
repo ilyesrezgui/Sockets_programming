@@ -8,4 +8,4 @@ This repository contains a collection of projects, each focusing on different as
 * Client_server_intro:
 This project demonstrates a basic example of a client-server interaction using TCP connections.
 * File Transfer:
-In this project, we explore client-server communication for transferring the contents of text files over TCP connections.
+In this project, we explore client-server communication for transferring the content of text files over TCP connections.
